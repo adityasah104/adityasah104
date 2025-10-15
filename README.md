@@ -17,7 +17,7 @@ Enterprise food delivery platform serving 1000+ active users
 - **Features**: Real-time order tracking, payment gateway integration, multi-app ecosystem
 - **Impact**: $10K+ monthly transactions, 95% order accuracy
 
-### 🤖 [Spam Detection API](https://github.com/adityasah104/Spam_detection_API) ⭐ 200+
+### 🤖 [Spam Detection API](https://github.com/adityasah104/Spam_detection_API) ⭐ 
 ML-powered multilingual spam detection with 97.4% accuracy
 - **Tech Stack**: Python, scikit-learn, Flask, Redis, Docker, Jenkins, AWS EC2
 - **DevOps**: Full MLOps pipeline with CI/CD, monitoring, and auto-scaling
