@@ -11,7 +11,7 @@ Full-stack developer and ML enthusiast from NIT Silchar, passionate about buildi
 
 ## 💼 Featured Projects
 
-### 🍕 [Tropical Cafe & Restro](https://play.google.com/store/apps/details?id=appsait.tropical.user.tropical_user_app)
+### 🍕 [Tropical Cafe & Restro](https://play.google.com/store/apps/details?id=appsait.tropical.user.tropical_user_app) (Client project - Private)
 Enterprise food delivery platform serving 1000+ active users
 - **Tech Stack**: Flutter, Next.js, Express.js, PostgreSQL, Firebase
 - **Features**: Real-time order tracking, payment gateway integration, multi-app ecosystem
